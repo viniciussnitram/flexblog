@@ -18,12 +18,12 @@ Este é um projeto desenvolvido no curso do Origamid. O intuito do projeto é es
 
 ## Capturas de Tela
 
-![Screenshot da tela principal](./img/screenshots/image.png)
+![Screenshot da tela principal](./img/screenshots/image.png)<br>
 _Legenda: Screenshot da tela principal._
 
 <br>
 
-![Screenshot da tela principal responsiva (width: 800px)](./img/screenshots/image-800.png)
+![Screenshot da tela principal responsiva (width: 800px)](./img/screenshots/image-800.png)<br>
 _Legenda: Screenshot da tela principal responsiva (width: 800px)._
 
 ## Links
